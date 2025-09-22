@@ -1,4 +1,4 @@
-package class_objek;
+package models;
 
 public class MataKuliah {
     private String kode;
